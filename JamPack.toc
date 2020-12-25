@@ -1,0 +1,19 @@
+## Interface: 11306
+## X-Curse-Project-ID: 429742
+
+## Title: JamPack
+## Notes: Opinionated quality of life improvements based on the needs of <The Jam> @ Bigglesworth-US
+## Author: syntaqx
+## Version: @project-version@
+
+## SavedVariables: JamPackDB
+## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3, LibSharedMedia-3.0
+## X-Embeds: LibStub, CallbackHandler-1.0, AceAddon-3.0, AceComm-3.0, AceDB-3.0, AceDBOptions-3.0, AceGUI-3.0, AceGUI-3.0-SharedMediaWidgets, LibSharedMedia-3.0
+
+## X-Category: Guild
+## X-License: MIT
+## X-Website: https://thejam.gg/
+
+embeds.xml
+
+JamPack.lua
